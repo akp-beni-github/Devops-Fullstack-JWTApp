@@ -1,0 +1,3 @@
+# Ignore other common files
+.DS_Store
+*.log
